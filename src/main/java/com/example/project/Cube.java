@@ -133,7 +133,7 @@ public class Cube {
 		}
 	}
 	
-	// Method forr rotating faces as matrices
+	// Method for rotating faces as matrices
 	public static char[][] rotateMatrix(char[][] matrix){
 		int height = matrix.length;
         int width = matrix[0].length;
